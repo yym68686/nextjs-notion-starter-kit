@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'yym68686\'s blog',
-  domain: 'yym68686.top',
+  domain: 'https://yym68686.notion.site/yym68686-63c554c4a2ed438e8ccd37911e7b97a3',
   author: 'yym68686',
 
   // open graph metadata (optional)
