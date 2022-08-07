@@ -10,8 +10,8 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'yym68686\'s blog',
-  domain: 'notion.yym68686.top',
-  author: 'Travis Fischer',
+  domain: 'yym68686.top',
+  author: 'yym68686',
 
   // open graph metadata (optional)
   description: 'this is me',
